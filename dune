@@ -1,2 +1,2 @@
 (executables
-  (names example_optics))
+  (names example_optics lens_over_tea monads))
